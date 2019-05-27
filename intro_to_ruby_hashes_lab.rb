@@ -30,7 +30,8 @@ monopoly =  {
   :railroads=>{
      :pieces=>4,
       :names=>{:reading_railroad=>{},
-      :pennsylvania_railroad=>{}
+      :pennsylvania_railroad=>{},
+            :shortline=>{}
         
       },
       
